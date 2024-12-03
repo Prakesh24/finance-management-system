@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/vivek3410/finanace-management-mern.git
+git clone https://github.com/Prakesh24/finance-management-system.git
 cd finance-management-mern
 ```
 
